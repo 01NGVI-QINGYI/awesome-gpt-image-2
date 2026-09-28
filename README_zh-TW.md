@@ -141,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **17659** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年9月27日 星期日 下午3:57:18 [UTC]** |
+| 🔄 最後更新 | **2026年9月28日 星期一 凌晨2:25:05 [UTC]** |
 
 </div>
 
@@ -6237,6 +6237,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-27T15:57:18.543Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-28T02:25:05.713Z</sub>
 
 </div>
