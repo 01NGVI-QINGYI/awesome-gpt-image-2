@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **17671** |
+| 📝 कुल प्रॉम्पट्स | **17681** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **मंगलवार, 29 सितंबर 2026 को 3:09:16 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 29 सितंबर 2026 को 5:12:36 pm UTC बजे** |
 
 </div>
 
@@ -525,7 +525,47 @@ VR हेडसेट का एक हाई-टेक एक्सप्लो
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: प्रोफ़ाइल / अवतार - GPT Image 2 प्रॉम्प्ट: सूर्यास्त समुद्र खिड़की पोर्ट्रेट
+### No. 1: प्रोफ़ाइल / अवतार - मैचिंग कैप के साथ बिल्ली के साथ स्ट्रीट सेल्फी
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक महिला की यथार्थवादी स्ट्रीट सेल्फी उत्पन्न करने के लिए एक प्रॉम्प्ट, जो एक बिल्ली को पकड़े हुए है, दोनों नीले रंग की मैचिंग कैप पहने हुए हैं, और पृष्ठभूमि में एक सुंदर यूरोपीय इमारत है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक युवती की यथार्थवादी क्लोज-अप स्ट्रीट सेल्फी जिसके लंबे, लहरदार हल्के भूरे बाल हैं और उसने नरम प्राकृतिक मेकअप किया हुआ है, वह विंटेज नीली डेनिम बेसबॉल कैप और आरामदायक नीले पैटर्न वाले स्वेटर पहने हुए है। वह शहर के फुटपाथ पर बाहर बैठी है, शांत और थोड़ी मुस्कुराहट भरी भावना के साथ सीधे कैमरे की ओर देख रही है। वह अपनी गोद में एक प्यारी जिंगल टैबी बिल्ली को पकड़े हुए है, और बिल्ली ने एक छोटी नीली बेसबॉल कैप पहनी हुई है, जिससे एक खेलपूर्ण मैचिंग लुक बनता है। बिल्ली विश्राम की मुद्रा में कैमरे की ओर देख रही है और उसके बाल बहुत विस्तृत हैं।
+उनके पीछे एक सुंदर यूरोपीय शैली की इमारत है जिसकी दीवारें क्रीम रंग की पत्थर की हैं, ऊंची खिड़कियाँ जीवंत लाल पर्दों से सजी हैं, लाल ऑनिंग्स हैं, और सड़क के किनारे एक गहरे रंग की कार खड़ी है। प्राकृतिक दिन का रोशनी, अनौपचारिक स्मार्टफोन सेल्फी एस्थेटिक, यथार्थवादी त्वचा और बालों की टेक्सचर, विस्तृत बिल्ली के फर, कम गहराई का फील्ड, थोड़ा वाइड-एंगल परिप्रेक्ष्य, जीवंत लेकिन प्राकृतिक रंग, उच्च रिज़ोल्यूशन फोटोग्राफी, वर्टिकल संरचना।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790668323152_9fd3jz_HTTipvaXEAAR0y3.jpg" width="600" alt="प्रोफ़ाइल / अवतार - मैचिंग कैप के साथ बिल्ली के साथ स्ट्रीट सेल्फी - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790668323096_mv9xyg_HTTirQ_WUAEAbIN.jpg" width="600" alt="प्रोफ़ाइल / अवतार - मैचिंग कैप के साथ बिल्ली के साथ स्ट्रीट सेल्फी - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aqsa](https://x.com/Aqsahere_)
+- **स्रोत:** [Twitter Post](https://x.com/Aqsahere_/status/2104556185101721610)
+- **प्रकाशित:** 28 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35623)**
+
+---
+
+### No. 2: प्रोफ़ाइल / अवतार - GPT Image 2 प्रॉम्प्ट: सूर्यास्त समुद्र खिड़की पोर्ट्रेट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -580,7 +620,7 @@ VR हेडसेट का एक हाई-टेक एक्सप्लो
 
 ---
 
-### No. 2: प्रोफ़ाइल / अवतार - पहचान प्रतिस्थापन टेम्पलेट प्रॉम्प्ट
+### No. 3: प्रोफ़ाइल / अवतार - पहचान प्रतिस्थापन टेम्पलेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -675,7 +715,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 3: प्रोफ़ाइल / अवतार - GPT Image 2 Prompt: Leaf Shadow Portrait
+### No. 4: प्रोफ़ाइल / अवतार - GPT Image 2 Prompt: Leaf Shadow Portrait
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -730,7 +770,7 @@ Omit leaf shadows; change jacket color.
 
 ---
 
-### No. 4: प्रोफ़ाइल / अवतार - हरे रंग के फूलों वाले साटन रोब में महिला
+### No. 5: प्रोफ़ाइल / अवतार - हरे रंग के फूलों वाले साटन रोब में महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -769,7 +809,7 @@ Omit leaf shadows; change jacket color.
 
 ---
 
-### No. 5: प्रोफ़ाइल / अवतार - गॉथिक एनीमे पोर्ट्रेट
+### No. 6: प्रोफ़ाइल / अवतार - गॉथिक एनीमे पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -820,7 +860,7 @@ Omit leaf shadows; change jacket color.
 
 ---
 
-### No. 6: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक कैफे पोर्ट्रेट प्रॉम्प्ट
+### No. 7: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक कैफे पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -853,7 +893,7 @@ GPT Image 2 का उपयोग करके एक बाहरी कैफ
 
 ---
 
-### No. 7: प्रोफ़ाइल / अवतार - स्ट्रीटवेयर सेल्फी डक फेस के साथ
+### No. 8: प्रोफ़ाइल / अवतार - स्ट्रीटवेयर सेल्फी डक फेस के साथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -892,7 +932,7 @@ gpt-image-2 के लिए एक प्रॉम्प्ट जो स्ट
 
 ---
 
-### No. 8: प्रोफ़ाइल / अवतार - GPT Image 2 प्रॉम्प्ट: कैफे में बुना हुआ बालों का पोर्ट्रेट
+### No. 9: प्रोफ़ाइल / अवतार - GPT Image 2 प्रॉम्प्ट: कैफे में बुना हुआ बालों का पोर्ट्रेट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -947,7 +987,7 @@ gpt-image-2 के लिए एक प्रॉम्प्ट जो स्ट
 
 ---
 
-### No. 9: प्रोफ़ाइल / अवतार - GPT Image 2 पहचान प्रतिस्थापन टेम्पलेट
+### No. 10: प्रोफ़ाइल / अवतार - GPT Image 2 पहचान प्रतिस्थापन टेम्पलेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1049,7 +1089,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 10: प्रोफ़ाइल / अवतार - वास्तविक यात्रा फोटो प्रॉम्प्ट
+### No. 11: प्रोफ़ाइल / अवतार - वास्तविक यात्रा फोटो प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1093,7 +1133,7 @@ GPT Image 2 के लिए अनुकूलित, एक महिला �
 
 ---
 
-### No. 11: प्रोफ़ाइल / अवतार - क्रॉस-लेग फैशन पोज में एनीमे लड़की
+### No. 12: प्रोफ़ाइल / अवतार - क्रॉस-लेग फैशन पोज में एनीमे लड़की
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1126,7 +1166,7 @@ GPT Image 2 के लिए अनुकूलित, एक महिला �
 
 ---
 
-### No. 12: प्रोफ़ाइल / अवतार - GPT Image 2 Prompt: ग्रे जिम रेस्ट
+### No. 13: प्रोफ़ाइल / अवतार - GPT Image 2 Prompt: ग्रे जिम रेस्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1181,7 +1221,7 @@ GPT Image 2 के लिए अनुकूलित, एक महिला �
 
 ---
 
-### No. 13: प्रोफ़ाइल / अवतार - लॉन्ड्री में इंतज़ार करने का दृश्य प्रॉम्प्ट
+### No. 14: प्रोफ़ाइल / अवतार - लॉन्ड्री में इंतज़ार करने का दृश्य प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1236,7 +1276,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 14: प्रोफ़ाइल / अवतार - चांदी के आभूषणों वाली गुलाबी साड़ी में महिला
+### No. 15: प्रोफ़ाइल / अवतार - चांदी के आभूषणों वाली गुलाबी साड़ी में महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1269,7 +1309,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 15: प्रोफ़ाइल / अवतार - GPT Image 2 के लिए रात में बोतल के साथ सेल्फी का प्रॉम्प्ट
+### No. 16: प्रोफ़ाइल / अवतार - GPT Image 2 के लिए रात में बोतल के साथ सेल्फी का प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1324,7 +1364,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 16: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक बेडरूम सेल्फी प्रॉम्प्ट
+### No. 17: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक बेडरूम सेल्फी प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1369,7 +1409,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 17: प्रोफ़ाइल / अवतार - एनालॉग फिल्म पोर्ट्रेट स्टाइल
+### No. 18: प्रोफ़ाइल / अवतार - एनालॉग फिल्म पोर्ट्रेट स्टाइल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1412,7 +1452,7 @@ GPT Image 2 का उपयोग करके विशिष्ट लाइ�
 
 ---
 
-### No. 18: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक पाकिस्तानी शलवार कमीज़ गार्डन पोर्ट्रेट
+### No. 19: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक पाकिस्तानी शलवार कमीज़ गार्डन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1445,7 +1485,7 @@ GPT Image 2 का उपयोग करके विशिष्ट लाइ�
 
 ---
 
-### No. 19: प्रोफ़ाइल / अवतार - बड़े सिर वाली कार्टून कैरिकेचर प्रॉम्प्ट
+### No. 20: प्रोफ़ाइल / अवतार - बड़े सिर वाली कार्टून कैरिकेचर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1505,61 +1545,6 @@ GPT Image 2 का उपयोग करके विशिष्ट लाइ�
 
 ---
 
-### No. 20: प्रोफ़ाइल / अवतार - ग्रीनहाउस कैफे पोर्ट्रेट प्रॉम्प्ट
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 विवरण
-
-एक फूलों से भरे ग्लास ग्रीनहाउस में नरम धूप में खड़ी युवा महिला के यथार्थवादी पोर्ट्रेट को जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-विषय:
-ग्रीनहाउस ग्रीन निट
-
-मुख्य विषय:
-स्क्रीन के केंद्र में, एक युवा महिला फूलों और फव्वारे वाले ग्लास ग्रीनहाउस में खड़ी है। मुख्य फोकस उसके डस्टी ग्रीन डीप वी-नेक निट टॉप, सफेद लंबी स्कर्ट और सफेद शोल्डर बैग पर है।
-
-पात्र और अभिव्यक्ति:
-पतला अंडाकार चेहरा, छोटी ठुड्डी, बड़े हल्के भूरे रंग की आंखें, पतली भौंहें, सुपरिभाषित नाक, चमकदार हल्के गुलाबी होठ। चेहरा थोड़ा बाईं ओर झुका हुआ है, सामने वाले कैमरे की ओर देखते हुए हल्की मुस्कान। लंबे लहरदार चमकदार भूरे बाल, पतले बैंग्स और चेहरे को घेरने वाले स्ट्रैंड्स।
-
-कपड़े और मुद्रा:
-मोटे कंधे की पट्टियों वाला डस्टी सेज ग्रीन वर्टिकल रिब्ड निट टॉप, गहरा क्रॉस्ड वी-नेक, और दाहिनी ओर तीन सोने के बटन। हल्के कपड़े से बनी सफेद लंबी फ्लेयर स्कर्ट, पतली बेल्ट, सफेद शोल्डर बैग। खड़ी हुई, बाएं हाथ से बैग की पट्टी पकड़े हुए, दाहिना हाथ स्वाभाविक रूप से नीचे लटका हुआ।
-
-पृष्ठभूमि और प्रकाश:
-बाईं और दाईं ओर सफेद फूल और हरियाली, दाईं ओर पत्थर का फव्वारा, पृष्ठभूमि में बड़े ब्लैक-फ्रेम्ड आर्च विंडो और ग्रीनहाउस संरचना, धुंधले ग्राहक और टेबल। नरम धूप ऊपर दाईं ओर की बड़ी खिड़की से बालों, चेहरे और कपड़ों पर पड़ती है, जिससे पत्तियों और पानी पर गोलाकार प्रकाश बिंदु बनते हैं।
-
-रचना और कैमरा:
-3:4 वर्टिकल रचना, कमर की ऊंचाई पर सामने वाला कैमरा सिर से घुटनों के नीचे तक तीन-चौथाई पोर्ट्रेट कैप्चर करता है। व्यक्ति को मुख्य रूप से केंद्र में रखा गया है, बाईं ओर फूल, दाईं ओर फव्वारा। हेम नीचे की किनारे पर कटा हुआ है, चेहरे और आंखों पर फोकस, पृष्ठभूमि भारी रूप से धुंधली है।
-
-बनावट और शैली:
-फोटोरियलिस्टिक लाइव-एक्शन फोटो। प्राकृतिक त्वचा, रिब्ड निट, सफेद कपड़ा, चमड़े का बैग, फूल, पत्तियां और पानी के प्रतिबिंबों के लिए उच्च परिभाषा, सेज, सफेद और सुनहरे रंगों में गर्म ग्रीनहाउस प्रकाश के साथ।
-
-निषेध (Negative):
-ग्रीन निट और सफेद स्कर्ट बदलें; ग्रीनहाउस फूल दृश्य छोड़ दें
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790322684379_7dwuud_HS5DD9EaUAAjQvr.jpg" width="600" alt="प्रोफ़ाइल / अवतार - ग्रीनहाउस कैफे पोर्ट्रेट प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **स्रोत:** [Twitter Post](https://x.com/CyberTotal2026/status/2103109697607995648)
-- **प्रकाशित:** 24 सितंबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35413)**
-
----
-
 ### No. 21: सोशल मीडिया पोस्ट - GPT Image 2 के लिए लक्जरी बिल्डिंग पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -1596,7 +1581,58 @@ GPT Image 2 का उपयोग करके विशिष्ट लाइ�
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - हाई-फैशन समर एडिटोरियल प्रॉम्प्ट
+### No. 22: सोशल मीडिया पोस्ट - फोटो-रियलिस्टिक मील प्रेप जार के साथ सामग्री की सूची
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक प्रॉम्प्ट जो ग्लास जार में परतदार मेक्सिकन-प्रभावित चिकन सलाद और हाथ से लिखी गई सामग्री की सूची ओवरले के साथ फोटो-रियलिस्टिक फूड फोटोग्राफी दृश्य उत्पन्न करता है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक फोटो-रियलिस्टिक लाइफस्टाइल फूड फोटोग्राफी दृश्य बनाएं जिसमें चार साफ कांच के मील-प्रेप जार एक स्वच्छ हल्के रंग के किचन काउंटरटॉप पर व्यवस्थित हों। प्रत्येक जार में एक प्राकृतिक बांस लकड़ी का ढक्कन और एक सफेद सीलिंग रिंग हो।
+
+जारों में सुंदर रूप से परतदार {argument name="dish type" default="मेक्सिकन-प्रभावित चिकन सलाद"} होते हैं, जिनमें नीचे से ऊपर तक स्पष्ट रूप से अलग किए गए रंगीन परतें होती हैं: कटा हुआ खीरा, चेरी टमाटर, लाल प्याज, लाल शिमला मिर्च, मीठा मक्का, ब्लैक बीन्स, क्रुम्बल किया हुआ कोटिजा चीज़, ताज़ा कटी हुई रोमैन लेट्यूस, और बारीक कटा हुआ पका हुआ चिकन। हर सामग्री को ताज़ा, जीवंत, क्रिस्प रखें और पारदर्शी कांच के माध्यम से दृश्य रूप से अलग दिखाएं।
+
+गहराई और संरचना के लिए दो जार अग्रभूमि (foreground) में और दो थोड़े पीछे की ओर रखें। गर्म आधुनिक किचन पृष्ठभूमि जिसमें सूक्ष्म लकड़ी की अलमारियाँ हों, खिड़की से आती नरम प्राकृतिक दिन की रोशनी, कम गहराई का फोकस (shallow depth of field), कांच पर यथार्थवादी प्रतिबिंब, नरम छायाएँ, प्रीमियम फूड फोटोग्राफी, प्राकृतिक रंग, उच्च विवरण, यथार्थवादी बनावट, 4K, एडिटोरियल मील-प्रेप सौंदर्यशास्त्र।
+
+दाईं ओर, एक साफ हाथ से लिखी शैली की सामग्री सूची शामिल करें जिसमें पढ़ा जाए:
+“Shredded Chicken
+Romaine
+Cojita
+Black beans
+Corn
+Red pepper
+Red onion
+Cherry tomatoes
+Cucumber”
+
+वर्टिकल संरचना, यथार्थवादी अनुपात, स्वच्छ और भूख बढ़ाने वाली प्रस्तुति, व्यावसायिक वाणिज्यिक फूड फोटोग्राफी।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790668324918_j2tjd4_HTRAdKCaAAAL1LT.jpg" width="600" alt="सोशल मीडिया पोस्ट - फोटो-रियलिस्टिक मील प्रेप जार के साथ सामग्री की सूची - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Dua Fatima](https://x.com/DuaFatimaAi)
+- **स्रोत:** [Twitter Post](https://x.com/DuaFatimaAi/status/2104377831581253709)
+- **प्रकाशित:** 28 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35569)**
+
+---
+
+### No. 23: सोशल मीडिया पोस्ट - हाई-फैशन समर एडिटोरियल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1686,7 +1722,7 @@ GPT Image 2 के लिए एक व्यापक प्रॉम्प्�
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - न्यू ईयर ट्रांसफॉर्मेशन पोस्टर
+### No. 24: सोशल मीडिया पोस्ट - न्यू ईयर ट्रांसफॉर्मेशन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1756,7 +1792,7 @@ VISUAL STYLE
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - सुररियल फूड स्टोरीबुक इलस्ट्रेशन
+### No. 25: सोशल मीडिया पोस्ट - सुररियल फूड स्टोरीबुक इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1809,7 +1845,7 @@ gpt-image-2 के लिए एक जटिल प्रॉम्प्ट ज
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - सनसेट सोफा पोर्ट्रेट के लिए GPT Image 2 प्रॉम्प्ट
+### No. 26: सोशल मीडिया पोस्ट - सनसेट सोफा पोर्ट्रेट के लिए GPT Image 2 प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1864,7 +1900,7 @@ gpt-image-2 के लिए एक जटिल प्रॉम्प्ट ज
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - स्केच के साथ सिनेमाई यादों का पोर्ट्रेट
+### No. 27: सोशल मीडिया पोस्ट - स्केच के साथ सिनेमाई यादों का पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1909,7 +1945,7 @@ gpt-image-2 के लिए एक प्रॉम्प्ट जो एक �
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - सिनेमैटिक विंटर पोर्ट्रेट: पुरुष
+### No. 28: सोशल मीडिया पोस्ट - सिनेमैटिक विंटर पोर्ट्रेट: पुरुष
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1945,7 +1981,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) के लिए 
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - हेडफोन के साथ स्ट्रीट स्टाइल पोर्ट्रेट
+### No. 29: सोशल मीडिया पोस्ट - हेडफोन के साथ स्ट्रीट स्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1984,7 +2020,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) के लिए 
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - गुलाबी साटन फूलों वाला नाइट रोब प्रॉम्प्ट
+### No. 30: सोशल मीडिया पोस्ट - गुलाबी साटन फूलों वाला नाइट रोब प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2039,7 +2075,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) के लिए 
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - धुंधले पहाड़ों में विंटेज कार पर बैठी कोरियन लड़की
+### No. 31: सोशल मीडिया पोस्ट - धुंधले पहाड़ों में विंटेज कार पर बैठी कोरियन लड़की
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2069,57 +2105,6 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) के लिए 
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35455)**
-
----
-
-### No. 31: इन्फोग्राफिक / शैक्षिक विज़ुअल - फोटो-रियलिस्टिक मील प्रेप जार के साथ सामग्री की सूची
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक प्रॉम्प्ट जो ग्लास जार में परतदार मेक्सिकन-प्रभावित चिकन सलाद और हाथ से लिखी गई सामग्री की सूची ओवरले के साथ फोटो-रियलिस्टिक फूड फोटोग्राफी दृश्य उत्पन्न करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक फोटो-रियलिस्टिक लाइफस्टाइल फूड फोटोग्राफी दृश्य बनाएं जिसमें चार साफ कांच के मील-प्रेप जार एक स्वच्छ हल्के रंग के किचन काउंटरटॉप पर व्यवस्थित हों। प्रत्येक जार में एक प्राकृतिक बांस लकड़ी का ढक्कन और एक सफेद सीलिंग रिंग हो।
-
-जारों में सुंदर रूप से परतदार {argument name="dish type" default="मेक्सिकन-प्रभावित चिकन सलाद"} होते हैं, जिनमें नीचे से ऊपर तक स्पष्ट रूप से अलग किए गए रंगीन परतें होती हैं: कटा हुआ खीरा, चेरी टमाटर, लाल प्याज, लाल शिमला मिर्च, मीठा मक्का, ब्लैक बीन्स, क्रुम्बल किया हुआ कोटिजा चीज़, ताज़ा कटी हुई रोमैन लेट्यूस, और बारीक कटा हुआ पका हुआ चिकन। हर सामग्री को ताज़ा, जीवंत, क्रिस्प रखें और पारदर्शी कांच के माध्यम से दृश्य रूप से अलग दिखाएं।
-
-गहराई और संरचना के लिए दो जार अग्रभूमि (foreground) में और दो थोड़े पीछे की ओर रखें। गर्म आधुनिक किचन पृष्ठभूमि जिसमें सूक्ष्म लकड़ी की अलमारियाँ हों, खिड़की से आती नरम प्राकृतिक दिन की रोशनी, कम गहराई का फोकस (shallow depth of field), कांच पर यथार्थवादी प्रतिबिंब, नरम छायाएँ, प्रीमियम फूड फोटोग्राफी, प्राकृतिक रंग, उच्च विवरण, यथार्थवादी बनावट, 4K, एडिटोरियल मील-प्रेप सौंदर्यशास्त्र।
-
-दाईं ओर, एक साफ हाथ से लिखी शैली की सामग्री सूची शामिल करें जिसमें पढ़ा जाए:
-“Shredded Chicken
-Romaine
-Cojita
-Black beans
-Corn
-Red pepper
-Red onion
-Cherry tomatoes
-Cucumber”
-
-वर्टिकल संरचना, यथार्थवादी अनुपात, स्वच्छ और भूख बढ़ाने वाली प्रस्तुति, व्यावसायिक वाणिज्यिक फूड फोटोग्राफी।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790582676464_jtxexk_HTRAdKCaAAAL1LT.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - फोटो-रियलिस्टिक मील प्रेप जार के साथ सामग्री की सूची - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Dua Fatima](https://x.com/DuaFatimaAi)
-- **स्रोत:** [Twitter Post](https://x.com/DuaFatimaAi/status/2104377831581253709)
-- **प्रकाशित:** 28 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35569)**
 
 ---
 
@@ -2866,7 +2851,53 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 47: YouTube थंबनेल - टोक्यो पुलिस का विशाल रोबोट चेकपोस्ट
+### No. 47: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी कॉरिडोर विंडो डिटेल शीट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक संदर्भ से एक स्पष्ट जापानी आर्किटेक्चरल डिटेल शीट तैयार करता है, जो अनुमानित कॉरिडोर विंडो सेक्शन, एलिवेशन और आंशिक निर्माण विवरणों पर केंद्रित है।
+
+#### 📝 प्रॉम्पट
+
+```
+REFERENCE_0 को आर्किटेक्चरल स्रोत के रूप में उपयोग करते हुए, इसे कॉरिडोर विंडो असेंबली के लिए एक स्पष्ट और अधिक केंद्रित जापानी तकनीकी ड्राइंग शीट में पुनर्गठित करें। समान विषय और हाथ से तैयार की गई आर्किटेक्चरल चित्रण शैली को बनाए रखें, लेकिन पेज को सरल बनाएं और निर्माण विवरणों को एक व्यापक व्याख्यात्मक बोर्ड के बजाय एक अनुमानित मापित विवरण के रूप में फिर से तैयार करें।
+
+लक्ष्य: {argument name="main title" default="廊下 窓まわり詳細図"} शीर्षक और {argument name="subtitle" default="(断面図・展開図・部分詳細図)"} उपशीर्षक के साथ एक विस्तृत ड्राइंग बनाएं। सभी आयामों को संदर्भ/फोटो से अनुमानित मानें और ध्यान दें कि इकाई {argument name="unit note" default="mm"} है।
+
+लेआउट: ठीक 4 ड्राइंग क्षेत्रों का उपयोग करें: बाईं ओर 1 बड़ा A-A सेक्शन डिटेल, ऊपर दाईं ओर 1 इंटीरियर एलिवेशन व्यू, और नीचे दाईं ओर 2 छोटे आंशिक डिटेल डायग्राम। बाएं सेक्शन को मुख्य केंद्र बनाएं और इसके शीर्ष पर एक छोटा की-प्लान/सेक्शन मार्कर शामिल करें।
+
+बायां मुख्य सेक्शन: कॉरिडोर विंडो सेक्शन को S=1/10 पर स्पष्ट निर्माण परतों और नारंगी आयाम रेखाओं के साथ फिर से तैयार करें। बाईं ओर बाहरी हरियाली और बाहरी जमीन, केंद्र में लंबा लकड़ी का सैश/ग्लास ओपनिंग, और दाईं ओर आंतरिक कॉरिडोर साइड दिखाएं। बाहरी साइड, आंतरिक साइड, सीलिंग, स्टील कॉलम, लकड़ी का सैश, डबल ग्लास, ईंट की सिल/विंडो बेस, ईंट की बाहरी दीवार, स्टील एंगल/ब्रैकेट, फ्लोर बिल्ड-अप, मौजूदा RC स्लैब/फाउंडेशन, GL ±0 और FL ±0 के लिए लेबल शामिल करें। अनुमानित आयामों पर जोर दें, जिसमें ओपनिंग की ऊंचाई लगभग 2100, विंडो बेस लगभग 300, ईंट की ऊंचाई 180, ईंट की लेज की चौड़ाई 350, बाहरी मार्ग लगभग 600, दीवार 100, सिल/बेंच 350, और कॉरिडोर की चौड़ाई लगभग 1200 शामिल है।
+
+ऊपरी-दायां ड्राइंग: {argument name="elevation label" default="内観立面図（廊下側） S=1/50"} लेबल वाला एक इंटीरियर एलिवेशन व्यू बनाएं। कॉरिडोर-साइड की विंडो वॉल दिखाएं जिसमें बार-बार आने वाले वर्टिकल लकड़ी के फ्रेम, ग्लास पैन, ईंट/बेंच बेस, स्टील कॉलम, ग्लास के माध्यम से दिखाई देने वाली बाहरी हरियाली और नारंगी A-A सेक्शन मार्कर हों।
+
+निचले-दाएं विवरण: a और b लेबल वाले ठीक 2 आंशिक डिटेल डायग्राम जोड़ें: a. ऊपरी/हेड डिटेल जिसमें सीलिंग, PB सबस्ट्रेट/पेंट फिनिश, लकड़ी का सैश, और डबल ग्लास दिखाई दे; b. निचला/सिल डिटेल जिसमें ईंट फिनिश, मोर्टार सबस्ट्रेट, ईंट सपोर्ट, और स्टील एंगल प्लस ब्रैकेट दिखाई दे, जिसमें नारंगी आयाम 350, लगभग 300, और 180 हों।
+
+शैली और बाधाएं: संदर्भ की स्पष्ट जापानी आर्किटेक्चरल प्रस्तुति को बनाए रखें: पतली काली रेखाएं, हल्के भूरे रंग की हैचिंग, म्यूट लकड़ी और ईंट के टोन, नारंगी आयाम, सफेद पृष्ठभूमि, सटीक लीडर लाइनें, और एक पेशेवर मापित-ड्राइंग लुक। जहां दिखाया गया है वहां जापानी तकनीकी लेबल का उपयोग करें, लेकिन भीड़भाड़ से बचें। नीचे एक सावधानी नोट जोड़ें {argument name="caution note" default="※寸法は写真からの推定です。実施設計時は現地調査のうえ決定してください。"}। असंबंधित तस्वीरें, इंटीरियर में लोग, सजावटी आइकन, या अतिरिक्त ड्राइंग पैनल न जोड़ें।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788942349584_8zjz43_HRvlECqboAAplOX.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी कॉरिडोर विंडो डिटेल शीट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- **स्रोत:** [Twitter Post](https://x.com/shion_takk/status/2097523271302599071#reversed-1)
+- **प्रकाशित:** 9 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34031)**
+
+---
+
+### No. 48: YouTube थंबनेल - टोक्यो पुलिस का विशाल रोबोट चेकपोस्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2899,7 +2930,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 48: YouTube थंबनेल - गॉथिक कैथेड्रल डार्क फैंटेसी पोर्ट्रेट प्रॉम्प्ट
+### No. 49: YouTube थंबनेल - गॉथिक कैथेड्रल डार्क फैंटेसी पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2934,7 +2965,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 49: YouTube थंबनेल - GPT Image 2: सूरियल टाइम स्प्लिट पोर्ट्रेट
+### No. 50: YouTube थंबनेल - GPT Image 2: सूरियल टाइम स्प्लिट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2977,7 +3008,7 @@ GPT Image 2 का उपयोग करके एक पुरुष को 19
 
 ---
 
-### No. 50: YouTube थंबनेल - लड़ाकू विमान कॉकपिट दृश्य: बैंकिंग टर्न
+### No. 51: YouTube थंबनेल - लड़ाकू विमान कॉकपिट दृश्य: बैंकिंग टर्न
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3010,7 +3041,7 @@ GPT Image 2 का उपयोग करके एक पुरुष को 19
 
 ---
 
-### No. 51: YouTube थंबनेल - सिनेमाई रात का टेलीफोन बुथ
+### No. 52: YouTube थंबनेल - सिनेमाई रात का टेलीफोन बुथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3044,7 +3075,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) का उपय�
 
 ---
 
-### No. 52: YouTube थंबनेल - MotoGP POV कॉर्निंग शॉट
+### No. 53: YouTube थंबनेल - MotoGP POV कॉर्निंग शॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3077,7 +3108,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) का उपय�
 
 ---
 
-### No. 53: YouTube थंबनेल - AI यथार्थवादी थंबनेल: लालटेन लिए लड़कियाँ
+### No. 54: YouTube थंबनेल - AI यथार्थवादी थंबनेल: लालटेन लिए लड़कियाँ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3110,7 +3141,7 @@ gpt-image-2 (जिसे Gpt 2 कहा जाता है) का उपय�
 
 ---
 
-### No. 54: YouTube थंबनेल - सिनेमाई बैडमिंटन स्मैश GPT Image 2
+### No. 55: YouTube थंबनेल - सिनेमाई बैडमिंटन स्मैश GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3147,7 +3178,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 55: YouTube थंबनेल - बारिश वाले हैंगर में विशाल MPD रोबोट
+### No. 56: YouTube थंबनेल - बारिश वाले हैंगर में विशाल MPD रोबोट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3180,7 +3211,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 56: YouTube थंबनेल - भालू को पकड़ता विशाल पुलिस रोबोट
+### No. 57: YouTube थंबनेल - भालू को पकड़ता विशाल पुलिस रोबोट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3213,7 +3244,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 57: YouTube थंबनेल - टॉडलर सर्वर के साथ बातचीत कर रहा है
+### No. 58: YouTube थंबनेल - टॉडलर सर्वर के साथ बातचीत कर रहा है
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3246,7 +3277,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 58: YouTube थंबनेल - Cyber Idol VTuber टीज़र स्टोरीबोर्ड
+### No. 59: YouTube थंबनेल - Cyber Idol VTuber टीज़र स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3309,7 +3340,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 59: YouTube थंबनेल - एनीमे लूनर एक्लिप्स स्वॉर्ड्सवूमन पोस्टर
+### No. 60: YouTube थंबनेल - एनीमे लूनर एक्लिप्स स्वॉर्ड्सवूमन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3359,7 +3390,7 @@ GPT Image 2 (जिसे 'Gpt 2' कहा जाता है) का उप�
 
 ---
 
-### No. 60: YouTube थंबनेल - Vocaloid MV स्टाइल कैरेक्टर ग्रिड
+### No. 61: YouTube थंबनेल - Vocaloid MV स्टाइल कैरेक्टर ग्रिड
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3393,7 +3424,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 61: YouTube थंबनेल - भविष्यवादी तैरते शहर 'नेबुला' का चित्रण
+### No. 62: YouTube थंबनेल - भविष्यवादी तैरते शहर 'नेबुला' का चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3432,7 +3463,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 62: YouTube थंबनेल - रेट्रो सिंथवेव पॉडकास्ट होस्ट
+### No. 63: YouTube थंबनेल - रेट्रो सिंथवेव पॉडकास्ट होस्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3466,7 +3497,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 63: YouTube थंबनेल - सिनेमैटिक डेजर्ट रिंग ऑफ फायर एल्बम कवर
+### No. 64: YouTube थंबनेल - सिनेमैटिक डेजर्ट रिंग ऑफ फायर एल्बम कवर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3505,7 +3536,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 64: YouTube थंबनेल - साइबरपंक डॉग-ईयर्ड स्वॉर्डवूमन
+### No. 65: YouTube थंबनेल - साइबरपंक डॉग-ईयर्ड स्वॉर्डवूमन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3545,7 +3576,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 65: YouTube थंबनेल - साइबरपंक सिटी पार्कौर MV
+### No. 66: YouTube थंबनेल - साइबरपंक सिटी पार्कौर MV
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3583,7 +3614,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 66: YouTube थंबनेल - शीतकालीन गोधूलि बेला में लालटेन की फोटोग्राफी
+### No. 67: YouTube थंबनेल - शीतकालीन गोधूलि बेला में लालटेन की फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3617,7 +3648,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 67: कॉमिक / स्टोरीबोर्ड - चुन-ली का विशाल राक्षस पर घातक लात
+### No. 68: कॉमिक / स्टोरीबोर्ड - चुन-ली का विशाल राक्षस पर घातक लात
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3650,7 +3681,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 68: कॉमिक / स्टोरीबोर्ड - हाथ से बनाई गई फ़ैशन इलस्ट्रेशन ट्रांसफॉर्मेशन
+### No. 69: कॉमिक / स्टोरीबोर्ड - हाथ से बनाई गई फ़ैशन इलस्ट्रेशन ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3701,7 +3732,7 @@ gpt-image-2 (स्पष्ट रूप से नामित) के लि�
 
 ---
 
-### No. 69: कॉमिक / स्टोरीबोर्ड - GPT Image 2 के लिए पेपर कटआउट इलस्ट्रेशन प्रॉम्प्ट
+### No. 70: कॉमिक / स्टोरीबोर्ड - GPT Image 2 के लिए पेपर कटआउट इलस्ट्रेशन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3782,7 +3813,7 @@ GPT Image 2 का उपयोग करके अपलोड की गई �
 
 ---
 
-### No. 70: कॉमिक / स्टोरीबोर्ड - एरियल स्टीमपंक वर्कशॉप ट्रांसफॉर्मेशन
+### No. 71: कॉमिक / स्टोरीबोर्ड - एरियल स्टीमपंक वर्कशॉप ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3815,7 +3846,7 @@ GPT Image 2 का उपयोग करके अपलोड की गई �
 
 ---
 
-### No. 71: कॉमिक / स्टोरीबोर्ड - Fantasy Cartographer & Dog
+### No. 72: कॉमिक / स्टोरीबोर्ड - Fantasy Cartographer & Dog
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3848,7 +3879,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - विंटेज एडिटोरियल पोर्ट्रेट कोलाज
+### No. 73: कॉमिक / स्टोरीबोर्ड - विंटेज एडिटोरियल पोर्ट्रेट कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3887,7 +3918,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - पारदर्शी रोज़ कोर्ट लेडी
+### No. 74: कॉमिक / स्टोरीबोर्ड - पारदर्शी रोज़ कोर्ट लेडी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3927,7 +3958,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - गोधूलि बेला में एनीमे ट्रेन और माउंट फ़ूजी
+### No. 75: कॉमिक / स्टोरीबोर्ड - गोधूलि बेला में एनीमे ट्रेन और माउंट फ़ूजी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3967,7 +3998,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - क्लाउड फ्रेंड स्क्रैपबुक पोस्टर
+### No. 76: कॉमिक / स्टोरीबोर्ड - क्लाउड फ्रेंड स्क्रैपबुक पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +4057,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - Museum of Lost Tomorrows वैचारिक दृश्य
+### No. 77: कॉमिक / स्टोरीबोर्ड - Museum of Lost Tomorrows वैचारिक दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4098,7 +4129,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - The Last Train Home सिनेमाई दृश्य
+### No. 78: कॉमिक / स्टोरीबोर्ड - The Last Train Home सिनेमाई दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4170,7 +4201,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - अंडेडेड वैम्पायर किंग थ्रोन
+### No. 79: कॉमिक / स्टोरीबोर्ड - अंडेडेड वैम्पायर किंग थ्रोन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4204,7 +4235,7 @@ Using the provided reference image, transform the subject and their dog into a h
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - Hand-drawn travel journal illustration
+### No. 80: कॉमिक / स्टोरीबोर्ड - Hand-drawn travel journal illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4238,7 +4269,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक गोथिक लोलिता 3x3 एनीमे स्टिल्स
+### No. 81: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक गोथिक लोलिता 3x3 एनीमे स्टिल्स
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4293,7 +4324,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - उकियो-ए (Ukiyo-e) ओर्फ़ियस माउंटेन पाथ
+### No. 82: कॉमिक / स्टोरीबोर्ड - उकियो-ए (Ukiyo-e) ओर्फ़ियस माउंटेन पाथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4345,7 +4376,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 82: कॉमिक / स्टोरीबोर्ड - कप्पा गर्ल और स्केयरक्रो विच
+### No. 83: कॉमिक / स्टोरीबोर्ड - कप्पा गर्ल और स्केयरक्रो विच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4385,7 +4416,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 83: कॉमिक / स्टोरीबोर्ड - शोजि डोर व्हिस्परिंग एनीमे सीन
+### No. 84: कॉमिक / स्टोरीबोर्ड - शोजि डोर व्हिस्परिंग एनीमे सीन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4419,7 +4450,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 84: प्रोडक्ट मार्केटिंग - मैट ब्लैक B.AI कीबोर्ड कीकैप
+### No. 85: प्रोडक्ट मार्केटिंग - मैट ब्लैक B.AI कीबोर्ड कीकैप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4452,7 +4483,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 85: प्रोडक्ट मार्केटिंग - जापानी रेस्तरां लेमन सॉवर मेनू
+### No. 86: प्रोडक्ट मार्केटिंग - जापानी रेस्तरां लेमन सॉवर मेनू
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4497,7 +4528,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 86: प्रोडक्ट मार्केटिंग - GPT Image 2 डूडल स्टिकर ट्रांसफॉर्मेशन प्रॉम्प्ट
+### No. 87: प्रोडक्ट मार्केटिंग - GPT Image 2 डूडल स्टिकर ट्रांसफॉर्मेशन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4561,7 +4592,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 87: प्रोडक्ट मार्केटिंग - साइकेडेलिक ड्रैगन एम्ब्रॉयडरी आर्ट
+### No. 88: प्रोडक्ट मार्केटिंग - साइकेडेलिक ड्रैगन एम्ब्रॉयडरी आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4594,7 +4625,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 88: प्रोडक्ट मार्केटिंग - Y2K स्नीकर एडिटोरियल फोटो
+### No. 89: प्रोडक्ट मार्केटिंग - Y2K स्नीकर एडिटोरियल फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4704,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - लक्ज़री सूट फैशन एडिटोरियल प्रॉम्प्ट
+### No. 90: प्रोडक्ट मार्केटिंग - लक्ज़री सूट फैशन एडिटोरियल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4712,7 +4743,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - Y2K मेट्रो फैशन पोर्ट्रेट
+### No. 91: प्रोडक्ट मार्केटिंग - Y2K मेट्रो फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4747,7 +4778,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - विंटेज फैशन कोलाज प्रॉम्प्ट
+### No. 92: प्रोडक्ट मार्केटिंग - विंटेज फैशन कोलाज प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4798,7 +4829,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - एलिगेंट पाकिस्तानी फैशन पोर्ट्रेट
+### No. 93: प्रोडक्ट मार्केटिंग - एलिगेंट पाकिस्तानी फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4833,7 +4864,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 93: प्रोडक्ट मार्केटिंग - बैंगनी बालों वाली लक्जरी फैशन पोर्ट्रेट
+### No. 94: प्रोडक्ट मार्केटिंग - बैंगनी बालों वाली लक्जरी फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4868,7 +4899,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 94: प्रोडक्ट मार्केटिंग - उच्च-फैशन कलर ब्लॉक एडिटोरियल GPT Image 2
+### No. 95: प्रोडक्ट मार्केटिंग - उच्च-फैशन कलर ब्लॉक एडिटोरियल GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4955,7 +4986,7 @@ GPT Image 2 के साथ बनाई गई एक संरचित JSON-
 
 ---
 
-### No. 95: प्रोडक्ट मार्केटिंग - Sunlit Vintage Window Portrait GPT Image 2
+### No. 96: प्रोडक्ट मार्केटिंग - Sunlit Vintage Window Portrait GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5004,7 +5035,7 @@ GPT Image 2 का उपयोग करके सूरज की रोशन
 
 ---
 
-### No. 96: प्रोडक्ट मार्केटिंग - बोल्ड कलर थ्योरी फैशन एडिटोरियल
+### No. 97: प्रोडक्ट मार्केटिंग - बोल्ड कलर थ्योरी फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5061,7 +5092,7 @@ GPT Image 2 का उपयोग करके सूरज की रोशन
 
 ---
 
-### No. 97: प्रोडक्ट मार्केटिंग - बारिश भरी पतझड़ की सड़क फैशन GPT Image 2
+### No. 98: प्रोडक्ट मार्केटिंग - बारिश भरी पतझड़ की सड़क फैशन GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5101,7 +5132,7 @@ ChatGPT Image 2 का उपयोग करके बनाया गया �
 
 ---
 
-### No. 98: ई-कॉमर्स मुख्य इमेज - LEGO मिनीफिगर ट्रांसफॉर्मेशन
+### No. 99: ई-कॉमर्स मुख्य इमेज - LEGO मिनीफिगर ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5189,7 +5220,7 @@ Sta
 
 ---
 
-### No. 99: ई-कॉमर्स मुख्य इमेज - GPT Image 2 प्रॉम्प्ट: बार में लाल ड्रेस पहने महिला
+### No. 100: ई-कॉमर्स मुख्य इमेज - GPT Image 2 प्रॉम्प्ट: बार में लाल ड्रेस पहने महिला
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5244,7 +5275,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 100: ई-कॉमर्स मुख्य इमेज - GPT Image 2 प्रॉम्प्ट: विंटेज पिंक ब्लेंडर
+### No. 101: ई-कॉमर्स मुख्य इमेज - GPT Image 2 प्रॉम्प्ट: विंटेज पिंक ब्लेंडर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5277,7 +5308,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 101: ई-कॉमर्स मुख्य इमेज - Rhode Lip Treatment तुलनात्मक विज्ञापन
+### No. 102: ई-कॉमर्स मुख्य इमेज - Rhode Lip Treatment तुलनात्मक विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5325,7 +5356,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 102: ई-कॉमर्स मुख्य इमेज - स्केच से यथार्थवादी रूम प्रमोशन रेंडर
+### No. 103: ई-कॉमर्स मुख्य इमेज - स्केच से यथार्थवादी रूम प्रमोशन रेंडर
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5359,7 +5390,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 103: ई-कॉमर्स मुख्य इमेज - सटल रोज़ नेल एडिट
+### No. 104: ई-कॉमर्स मुख्य इमेज - सटल रोज़ नेल एडिट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5399,7 +5430,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 104: ई-कॉमर्स मुख्य इमेज - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन
+### No. 105: ई-कॉमर्स मुख्य इमेज - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5432,7 +5463,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 105: ई-कॉमर्स मुख्य इमेज - कोरियाई सुपरमार्केट में खरीदारी करती महिला की कैंडिड फोटो
+### No. 106: ई-कॉमर्स मुख्य इमेज - कोरियाई सुपरमार्केट में खरीदारी करती महिला की कैंडिड फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5484,7 +5515,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 106: ई-कॉमर्स मुख्य इमेज - टूटा हुआ प्राचीन टेराकोटा फूलदान
+### No. 107: ई-कॉमर्स मुख्य इमेज - टूटा हुआ प्राचीन टेराकोटा फूलदान
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5524,7 +5555,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 107: ई-कॉमर्स मुख्य इमेज - स्ट्रीटवियर फुल बॉडी फैशन पोर्ट्रेट
+### No. 108: ई-कॉमर्स मुख्य इमेज - स्ट्रीटवियर फुल बॉडी फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5571,7 +5602,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 108: ई-कॉमर्स मुख्य इमेज - बुटीक ई-कॉमर्स फ्लैट ले ग्रिड
+### No. 109: ई-कॉमर्स मुख्य इमेज - बुटीक ई-कॉमर्स फ्लैट ले ग्रिड
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5621,7 +5652,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 109: ई-कॉमर्स मुख्य इमेज - कमर्शियल पिंक बेरी स्मूदी फोटोग्राफी
+### No. 110: ई-कॉमर्स मुख्य इमेज - कमर्शियल पिंक बेरी स्मूदी फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5655,7 +5686,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 110: ई-कॉमर्स मुख्य इमेज - मैक्रो पिंक बेवरेज फोटोग्राफी
+### No. 111: ई-कॉमर्स मुख्य इमेज - मैक्रो पिंक बेवरेज फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5689,7 +5720,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 111: ई-कॉमर्स मुख्य इमेज - प्रोफेशनल प्रोडक्ट एडवरटाइजिंग फोटो
+### No. 112: ई-कॉमर्स मुख्य इमेज - प्रोफेशनल प्रोडक्ट एडवरटाइजिंग फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5729,7 +5760,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 112: ई-कॉमर्स मुख्य इमेज - स्टिर की हुई आइस्ड हनी लट्टे का क्लोज-अप
+### No. 113: ई-कॉमर्स मुख्य इमेज - स्टिर की हुई आइस्ड हनी लट्टे का क्लोज-अप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5763,7 +5794,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 113: ई-कॉमर्स मुख्य इमेज - गोल्डन रिट्रीवर स्प्रे विज्ञापन
+### No. 114: ई-कॉमर्स मुख्य इमेज - गोल्डन रिट्रीवर स्प्रे विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5797,7 +5828,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 114: ई-कॉमर्स मुख्य इमेज - गुलाबी डिवाइस के साथ सॉफ्ट स्टूडियो पोर्ट्रेट
+### No. 115: ई-कॉमर्स मुख्य इमेज - गुलाबी डिवाइस के साथ सॉफ्ट स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5831,7 +5862,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 115: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन पोस्टर
+### No. 116: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5864,7 +5895,40 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 116: गेम एसेट - साइबरपंक इंडस्ट्रियल कॉरिडोर स्प्लैश
+### No. 117: गेम एसेट - निर्विघ्न रिट्रो गेम मैप टेक्सचर जनरेटर
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+विभाजकों को हटाकर और छूटी हुई भूमि विवरणों को भरकर, टुकड़ों में बने ऊर्ध्वाधर पट्टियों से एक पूर्ण, निर्विघ्न वर्गाकार गेम मैप टेक्सचर का पुनर्निर्माण करता है।
+
+#### 📝 प्रॉम्पट
+
+```
+प्रदान की गई संदर्भ छवि का उपयोग करते हुए, जिसमें पाँच ऊर्ध्वाधर पट्टियाँ हैं जो सफेद अंतराल द्वारा अलग-अलग रिट्रो पिक्सेल-आर्ट गेम मैप के हिस्सों को दर्शाती हैं, इसे एक एकल निर्विघ्न वर्गाकार टाइल में बदलें। सभी सफेद विभाजक रेखाओं को हटा दें और भूमि विशेषताओं (हरे जंगल, नीले जल निकाय, नारंगी सड़कें और ग्रे किले की संरचनाएँ) को क्षैतिज रूप से बढ़ाएं ताकि पट्टियों के बीच खाली स्थान को भरा जा सके। यह सुनिश्चित करें कि प्रत्येक पट्टी के किनारे आसन्न पट्टियों के साथ प्राकृतिक रूप से मिल जाएं, ताकि एक निरंतर, एकीकृत परिदृश्य टेक्सचर बन सके जिसमें कोई दृश्य जोड़ या छूटा हुआ डेटा नहीं हो।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790668326206_nf676c_HTTLo3vboAE2Iao.png" width="600" alt="गेम एसेट - निर्विघ्न रिट्रो गेम मैप टेक्सचर जनरेटर - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [のいす@ship⑤](https://x.com/noiskia)
+- **स्रोत:** [Twitter Post](https://x.com/noiskia/status/2104532095381168194#reversed-1)
+- **प्रकाशित:** 28 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=35628)**
+
+---
+
+### No. 118: गेम एसेट - साइबरपंक इंडस्ट्रियल कॉरिडोर स्प्लैश
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5883,7 +5947,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1790582674363_5zft0l_HTAHZt3XUAEl9IP.jpg" width="600" alt="गेम एसेट - साइबरपंक इंडस्ट्रियल कॉरिडोर स्प्लैश - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790668321365_rrtgf2_HTAHZt3XUAEl9IP.jpg" width="600" alt="गेम एसेट - साइबरपंक इंडस्ट्रियल कॉरिडोर स्प्लैश - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5897,7 +5961,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 117: गेम एसेट - उच्च गुणवत्ता वाला वोक्सेल गेम एसेट शीट
+### No. 119: गेम एसेट - उच्च गुणवत्ता वाला वोक्सेल गेम एसेट शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5930,7 +5994,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 118: गेम एसेट - प्रीमियम ब्रांड मास्कॉट कैरेक्टर जनरेशन
+### No. 120: गेम एसेट - प्रीमियम ब्रांड मास्कॉट कैरेक्टर जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6002,105 +6066,13 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 119: गेम एसेट - सड़क पर बाधा डालता विशाल टोक्यो पुलिस रोबोट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक फोटोरियलिस्टिक छवि जिसमें एक विशाल द्विपाद पुलिस मेक टोक्यो की सड़क पर बाधा लगा रहा है, और उसके चारों ओर अधिकारी मौजूद हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-बादल वाले दिन में व्यस्त टोक्यो के चौराहे के बीच खड़े एक विशाल द्विपाद पुलिस रोबोट का अति-यथार्थवादी, वाइड-एंगल फोटोग्राफ। यह रोबोट लगभग 15 मीटर ऊंचा है, जिसे भारी उद्योगीय मशीनरी से बनाया गया है जिसमें खुले काले हाइड्रोलिक पिस्टन, केबलिंग और सफेद बख्तरबंद प्लेटिंग शामिल हैं। इसके ब्लॉकी सिर में कई कैमरा लेंस और सेंसर एरे लगे हुए हैं। इसके कंधों और छाती पर लाल आपातकालीन स्ट्रोब लाइटें लगी हुई हैं। "警視庁 MPD" (मेट्रोपॉलिटन पुलिस विभाग) पाठ स्पष्ट रूप से काले रंग में उसकी छाती, जांघों और पिंडलियों की सफेद बख्तरबंद प्लेट्स पर छपा हुआ है। रोबोट अपने बाएं हाथ से एक लंबी, चांदी की धातु की भीड़ नियंत्रण बाधा बाड़ को सक्रिय रूप से पकड़े हुए है, और क्षेत्र को सील करने के लिए इसे सड़क के आर-पार रख रहा है। अग्रभूमि में, गहरे नीले वर्दी, प्रतिबिंबित वेंट्स और सफेद हेलमेट पहने कई मानव पुलिस अधिकारी यातायात निर्देशित कर रहे हैं; बाईं ओर एक अधिकारी नारंगी बैटन पकड़े हुए है, जबकि दाईं ओर दूसरा अधिकारी रोबोट की ओर इशारा कर रहा है। पृष्ठभूमि में यथार्थवादी जापानी सड़क संकेत दिखाई देते हैं, जिसमें "Shinjuku," "Ginza," और "Tokyo Sta." की ओर इशारा करता एक बड़ा नीला ओवरहेड साइनबोर्ड शामिल है। बाईं ओर एक इमारत पर एक लंबवत बैनर लिखा है "ともに守る。東京の未来" (साथ मिलकर सुरक्षा करें। टोक्यो का भविष्य)। दृश्य में बादलों को प्रतिबिंबित करता गीला अस्फाल्ट, नारंगी ट्रैफिक कोन और दूर शहर के स्काईस्क्रेपर शामिल हैं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789458734397_s8p35t_HSLmHWBa8AAH1UO.jpg" width="600" alt="गेम एसेट - सड़क पर बाधा डालता विशाल टोक्यो पुलिस रोबोट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [カーブミラー](https://x.com/kabumira862571)
-- **स्रोत:** [Twitter Post](https://x.com/kabumira862571/status/2099493402438254809#reversed-0)
-- **प्रकाशित:** 14 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34689)**
-
----
-
-### No. 120: गेम एसेट - GPT Image 2 ब्लैक और व्हाइट फाइबर-फ्लो लोगो प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-लोगो के टैक्टाइल मैक्रो विज़ुअलाइज़ेशन को उत्पन्न करने के लिए एक प्रॉम्प्ट, जो सख्त काले और सफेद रंगों के साथ श्यान फाइबर-फ्लो रिलीफ सिस्टम का उपयोग करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-[MATERIAL COLOR = STRICT BLACK & WHITE]
-[SOURCE MODE = ATTACHED IMAGE]
-एक निरंतर श्यान फाइबर-फ्लो रिलीफ सिस्टम का उपयोग करते हुए अत्यधिक टैक्टाइल मैक्रो विज़ुअलाइज़ेशन बनाएं।
-
-संलग्न संदर्भ छवि को बिल्कुल वैसा ही रखें—वही सिल्हूट, अनुपात, ज्यामिति, स्पेसिंग, और पहचानने योग्य विवरण। आकार को पुनः डिज़ाइन, विकृत, सरल या संशोधित न करें।
-
-मुख्य रूप गहरे काले रंग में होना चाहिए जिसके बाहरी कंटूर का पालन करते हुए एक स्पष्ट, निरंतर शुद्ध सफेद आउटलाइन हो। कोई टेक्स्ट या अतिरिक्त तत्व नहीं।
-
-पूरी छवि को घनी पैकी की गई लंबी चमकदार फिलामेंट्स के एक निरंतर क्षेत्र में बदल दें, जैसे गीला काला लैकर। लंबे सुसंगत स्ट्रीमलाइन, सूक्ष्म रिज और वैली, उथले रिलीफ, और नियंत्रित सफेद एनिसोट्रोपिक हाइलाइट्स का उपयोग करें।
-
-सख्त पैलेट: केवल काला और सफेद। कोई अन्य रंग, ग्रेडिएंट, नियॉन, ग्लो, या रंगीन परावर्तन नहीं।
-
-मैक्रो कैमरा, लगभग लंबवत, न्यूनतम परिप्रेक्ष्य विकृति, तेज विस्तृत सतह, फोटोरियलिस्टिक श्यान सामग्री।
-
-NEGATIVE: बदला हुआ आकार, विकृत अनुपात, टेक्स्ट, अतिरिक्त तत्व, टूटी/धुंधली आउटलाइन, रंगीन आउटलाइन, अन्य रंग, एक्सट्रूज़न, एम्बॉसिंग, एनग्रेविंग, क्रोम, मार्बल, कपड़ा, फर, यादृच्छिक स्ट्रोक, अव्यवस्थित टर्बुलेंस, तरल स्प्लैश, बड़ी लहरें, नियॉन, अत्यधिक बोके, कण।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789388942465_4u665d_HSEg5tCaUAAFYle.jpg" width="600" alt="गेम एसेट - GPT Image 2 ब्लैक और व्हाइट फाइबर-फ्लो लोगो प्रॉम्प्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789388942504_kepthp_HSEg6yhaEAA-M5t.jpg" width="600" alt="गेम एसेट - GPT Image 2 ब्लैक और व्हाइट फाइबर-फ्लो लोगो प्रॉम्प्ट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789388942540_xjz5oc_HSEg737aMAABrvW.jpg" width="600" alt="गेम एसेट - GPT Image 2 ब्लैक और व्हाइट फाइबर-फ्लो लोगो प्रॉम्प्ट - Image 3">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Shami](https://x.com/ShamiWeb3)
-- **स्रोत:** [Twitter Post](https://x.com/ShamiWeb3/status/2098997284990247106)
-- **प्रकाशित:** 13 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34650)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 17551 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 17561 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6163,6 +6135,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-29T03:09:16.477Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-29T17:12:36.763Z</sub>
 
 </div>
